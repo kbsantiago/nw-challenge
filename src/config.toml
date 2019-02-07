@@ -1,0 +1,4 @@
+server = "localhost"
+database = "company_db"
+initialdataset = "../src/dao/dataset/q1_catalog.csv"
+updatedataset = "../src/dao/dataset/q2_clientData.csv"
