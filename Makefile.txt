@@ -1,0 +1,14 @@
+#Challenge Makefile
+
+start:
+#TODO: go run main.go
+
+check:
+#TODO: go test 
+company_dao_test.go
+package util - file_reader_test.go
+
+#setup:
+O banco utilizado foi o MongoDB.
+
+Necessário somente a instalação, pois a configuração é a padrão.
